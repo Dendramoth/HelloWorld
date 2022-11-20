@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-gh-pages-hello-world-dendra/static/css/main.185901da.chunk.css",
-    "main.js": "/react-gh-pages-hello-world-dendra/static/js/main.4556c609.chunk.js",
-    "main.js.map": "/react-gh-pages-hello-world-dendra/static/js/main.4556c609.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages-hello-world-dendra/static/js/runtime-main.a4acd3db.js",
-    "runtime-main.js.map": "/react-gh-pages-hello-world-dendra/static/js/runtime-main.a4acd3db.js.map",
-    "static/js/2.f4f23be0.chunk.js": "/react-gh-pages-hello-world-dendra/static/js/2.f4f23be0.chunk.js",
-    "static/js/2.f4f23be0.chunk.js.map": "/react-gh-pages-hello-world-dendra/static/js/2.f4f23be0.chunk.js.map",
-    "static/js/3.60796ab2.chunk.js": "/react-gh-pages-hello-world-dendra/static/js/3.60796ab2.chunk.js",
-    "static/js/3.60796ab2.chunk.js.map": "/react-gh-pages-hello-world-dendra/static/js/3.60796ab2.chunk.js.map",
-    "index.html": "/react-gh-pages-hello-world-dendra/index.html",
-    "static/css/main.185901da.chunk.css.map": "/react-gh-pages-hello-world-dendra/static/css/main.185901da.chunk.css.map",
-    "static/js/2.f4f23be0.chunk.js.LICENSE.txt": "/react-gh-pages-hello-world-dendra/static/js/2.f4f23be0.chunk.js.LICENSE.txt",
-    "static/media/alchemylogo.f670e5f2.svg": "/react-gh-pages-hello-world-dendra/static/media/alchemylogo.f670e5f2.svg"
+    "main.css": "/HelloWorld/static/css/main.185901da.chunk.css",
+    "main.js": "/HelloWorld/static/js/main.4556c609.chunk.js",
+    "main.js.map": "/HelloWorld/static/js/main.4556c609.chunk.js.map",
+    "runtime-main.js": "/HelloWorld/static/js/runtime-main.60ed3763.js",
+    "runtime-main.js.map": "/HelloWorld/static/js/runtime-main.60ed3763.js.map",
+    "static/js/2.2b31570c.chunk.js": "/HelloWorld/static/js/2.2b31570c.chunk.js",
+    "static/js/2.2b31570c.chunk.js.map": "/HelloWorld/static/js/2.2b31570c.chunk.js.map",
+    "static/js/3.60796ab2.chunk.js": "/HelloWorld/static/js/3.60796ab2.chunk.js",
+    "static/js/3.60796ab2.chunk.js.map": "/HelloWorld/static/js/3.60796ab2.chunk.js.map",
+    "index.html": "/HelloWorld/index.html",
+    "static/css/main.185901da.chunk.css.map": "/HelloWorld/static/css/main.185901da.chunk.css.map",
+    "static/js/2.2b31570c.chunk.js.LICENSE.txt": "/HelloWorld/static/js/2.2b31570c.chunk.js.LICENSE.txt",
+    "static/media/alchemylogo.f670e5f2.svg": "/HelloWorld/static/media/alchemylogo.f670e5f2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4acd3db.js",
-    "static/js/2.f4f23be0.chunk.js",
+    "static/js/runtime-main.60ed3763.js",
+    "static/js/2.2b31570c.chunk.js",
     "static/css/main.185901da.chunk.css",
     "static/js/main.4556c609.chunk.js"
   ]
