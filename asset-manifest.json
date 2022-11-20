@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/HelloWorld/static/css/main.185901da.chunk.css",
-    "main.js": "/HelloWorld/static/js/main.4556c609.chunk.js",
-    "main.js.map": "/HelloWorld/static/js/main.4556c609.chunk.js.map",
+    "main.js": "/HelloWorld/static/js/main.d08571ab.chunk.js",
+    "main.js.map": "/HelloWorld/static/js/main.d08571ab.chunk.js.map",
     "runtime-main.js": "/HelloWorld/static/js/runtime-main.60ed3763.js",
     "runtime-main.js.map": "/HelloWorld/static/js/runtime-main.60ed3763.js.map",
-    "static/js/2.2b31570c.chunk.js": "/HelloWorld/static/js/2.2b31570c.chunk.js",
-    "static/js/2.2b31570c.chunk.js.map": "/HelloWorld/static/js/2.2b31570c.chunk.js.map",
+    "static/js/2.d51dd483.chunk.js": "/HelloWorld/static/js/2.d51dd483.chunk.js",
+    "static/js/2.d51dd483.chunk.js.map": "/HelloWorld/static/js/2.d51dd483.chunk.js.map",
     "static/js/3.60796ab2.chunk.js": "/HelloWorld/static/js/3.60796ab2.chunk.js",
     "static/js/3.60796ab2.chunk.js.map": "/HelloWorld/static/js/3.60796ab2.chunk.js.map",
     "index.html": "/HelloWorld/index.html",
     "static/css/main.185901da.chunk.css.map": "/HelloWorld/static/css/main.185901da.chunk.css.map",
-    "static/js/2.2b31570c.chunk.js.LICENSE.txt": "/HelloWorld/static/js/2.2b31570c.chunk.js.LICENSE.txt",
+    "static/js/2.d51dd483.chunk.js.LICENSE.txt": "/HelloWorld/static/js/2.d51dd483.chunk.js.LICENSE.txt",
     "static/media/alchemylogo.f670e5f2.svg": "/HelloWorld/static/media/alchemylogo.f670e5f2.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.60ed3763.js",
-    "static/js/2.2b31570c.chunk.js",
+    "static/js/2.d51dd483.chunk.js",
     "static/css/main.185901da.chunk.css",
-    "static/js/main.4556c609.chunk.js"
+    "static/js/main.d08571ab.chunk.js"
   ]
 }
