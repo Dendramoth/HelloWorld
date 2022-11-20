@@ -2,7 +2,7 @@
   "name": "hello-world-part-four",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dendramoth.github.io/react-gh-pages-hello-world-dendra",
+  "homepage": "https://Dendramoth.github.io/HelloWorld",
   "dependencies": {
     "@alch/alchemy-web3": "^1.4.7",
     "@testing-library/jest-dom": "^5.11.4",
